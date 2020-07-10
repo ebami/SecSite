@@ -42,6 +42,7 @@ export default function Footer() {
               </li>
             );
           })}
+        <a target="_parent" href="https://www.addtoevent.co.uk/4t-knox-secure"><img className="event" src="https://www.addtoevent.co.uk/sites/default/files/badges/featured_circular_white_large.png" alt="Add To Event Featured Supplier"/></a>
         </ul>
         <ul className="copyright">
           <li>&copy; 4T Knox Secure. All rights reserved.</li>
